@@ -1,2 +1,2 @@
 # robofriends
-Demonstration of using React to make a dynamic site with a search functionality.
+A demostration of using React.js along with using and parsing json data, quick search functionality, and follow standarded front-end developmental practices.
